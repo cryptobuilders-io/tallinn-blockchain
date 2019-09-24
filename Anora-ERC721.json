@@ -8,7 +8,7 @@
         },
         "description": {
             "type": "string",
-            "description": "Represents ownership of the Anora Beanie Bo from the 24-09-2019 Tallinn Blockchain Developers Meetup"
+            "description": "Represents ownership of the Anora Beanie Boo from the 24-09-2019 Tallinn Blockchain Developers Meetup"
         },
         "image": {
             "type": "string",

@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Butter"
+        },
+        "description": {
+            "type": "string",
+            "description": "Represents ownership of the Butter Beanie Boo from the 24-09-2019 Tallinn Blockchain Developers Meetup"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://raw.githubusercontent.com/cryptobuilders-io/tallinn-blockchain/master/Butter.jpg"
+        }
+    }
+}
